@@ -1,16 +1,14 @@
-## Hi there 👋
+> RUN CLABHTA.exe  
+Loading… ███████████ 100%
 
-<!--
-**clabhta/clabhta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+WELCOME TO  
+█▀▀ █░░ ▄▀█ █▀▄ █░█ ▀█▀ ▄▀█  
+█▄▄ █▄▄ █▀█ █▄▀ █▀█ ░█░ █▀█  
 
-Here are some ideas to get you started:
+A retro-inspired logic engine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Select Module:
+[1] PORTFOLIO (COMING SOON…)
+[2] CONTACT
+[3] ABOUT 
+[4] EXIT  
