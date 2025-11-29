@@ -30,7 +30,7 @@
   <rect x="0" y="144" width="120" height="16" class="highlight">
     <animate attributeName="opacity" values="0;0;1;0" dur="4s" repeatCount="indefinite"/>
   </rect>
-  <rect x="0" y="160" width="120" height="16" class="highlight">
+  <rect x="0" y="286" width="120" height="16" class="highlight">
     <animate attributeName="opacity" values="0;0;0;1" dur="4s" repeatCount="indefinite"/>
   </rect>
 
