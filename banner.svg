@@ -19,24 +19,24 @@
   <rect width="960" height="300" fill="#0b1020"/>
 
   <text x="0" y="0" class="loading" xml:space="preserve">
-    <tspan x="0" dy="1.2em">'    > RUN CLABHTA.exe</tspan>
-    <tspan x="0" dy="1.2em">'    Loading… ███████████ 100%</tspan>
-    <tspan x="0" dy="1.2em">'    </tspan>
-    <tspan x="0" dy="1.2em">'    </tspan>
-    <tspan x="0" dy="1.2em">'    welcome to</tspan>
-    <tspan x="0" dy="1.2em">'     ██████╗██╗      █████╗ ██████╗ ██╗  ██╗████████╗ █████╗</tspan>
-    <tspan x="0" dy="1.2em">'    ██╔════╝██║     ██╔══██╗██╔══██╗██║  ██║╚══██╔══╝██╔══██╗</tspan>
-    <tspan x="0" dy="1.2em">'    ██║     ██║     ███████║██████╔╝███████║   ██║   ███████║</tspan>
-    <tspan x="0" dy="1.2em">'    ██║     ██║     ██╔══██║██╔══██╗██╔══██║   ██║   ██╔══██║</tspan>
-    <tspan x="0" dy="1.2em">'    ╚██████╗███████╗██║  ██║██████╔╝██║  ██║   ██║   ██║  ██║</tspan>
-    <tspan x="0" dy="1.2em">'     ╚═════╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝</tspan>
-    <tspan x="0" dy="1.2em">'                                                             </tspan>
-    <tspan x="0" dy="1.2em">'    <!--Information Science student @ UIUC--></tspan>
-    <tspan x="0" dy="1.2em">'    Select Module:</tspan>
-    <tspan x="0" dy="1.2em">'    </tspan><tspan class="menu-label">[01]</tspan> PORTFOLIO
-    <tspan x="0" dy="1.2em">'    </tspan><tspan class="menu-label">[02]</tspan> CONTACT
-    <tspan x="0" dy="1.2em">'    </tspan><tspan class="menu-label">[03]</tspan> ABOUT
-    <tspan x="0" dy="1.2em">'    </tspan><tspan class="menu-label">[04]</tspan> EXIT
+    <tspan x="0" dy="1.4em">'    > RUN CLABHTA.exe</tspan>
+    <tspan x="0" dy="1.4em">'    Loading… ███████████ 100%</tspan>
+    <tspan x="0" dy="1.4em">'    </tspan>
+    <tspan x="0" dy="1.4em">'    </tspan>
+    <tspan x="0" dy="1.4em">'    welcome to</tspan>
+    <tspan x="0" dy="1.4em">'     ██████╗██╗      █████╗ ██████╗ ██╗  ██╗████████╗ █████╗</tspan>
+    <tspan x="0" dy="1.4em">'    ██╔════╝██║     ██╔══██╗██╔══██╗██║  ██║╚══██╔══╝██╔══██╗</tspan>
+    <tspan x="0" dy="1.4em">'    ██║     ██║     ███████║██████╔╝███████║   ██║   ███████║</tspan>
+    <tspan x="0" dy="1.4em">'    ██║     ██║     ██╔══██║██╔══██╗██╔══██║   ██║   ██╔══██║</tspan>
+    <tspan x="0" dy="1.4em">'    ╚██████╗███████╗██║  ██║██████╔╝██║  ██║   ██║   ██║  ██║</tspan>
+    <tspan x="0" dy="1.4em">'     ╚═════╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝</tspan>
+    <tspan x="0" dy="1.4em">'                                                             </tspan>
+    <tspan x="0" dy="1.4em">'    <!--Information Science student @ UIUC--></tspan>
+    <tspan x="0" dy="1.4em">'    Select Module:</tspan>
+    <tspan x="0" dy="1.4em">'    </tspan><tspan class="menu-label">[01]</tspan> PORTFOLIO
+    <tspan x="0" dy="1.4em">'    </tspan><tspan class="menu-label">[02]</tspan> CONTACT
+    <tspan x="0" dy="1.4em">'    </tspan><tspan class="menu-label">[03]</tspan> ABOUT
+    <tspan x="0" dy="1.4em">'    </tspan><tspan class="menu-label">[04]</tspan> EXIT
   </text>
 
   <!--
