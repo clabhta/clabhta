@@ -8,31 +8,17 @@
       .title { font-family: monospace; font-weight: bold; font-size: 64px; fill: url(#grad); }
       .subtitle { font-family: monospace; font-size: 16px; fill:#9fbfd1; }
       .menu { font-family: monospace; font-size: 14px; fill:#e7faff; }
-      .module-label { fill:#967bb6; font-weight:bold; }
+      .module-label { fill:#967bb6; font-weight:bold; animation: blink-cycle 4s infinite;}
       .footnote {fill:#0096FF}
       .loading { font-family: monospace; font-size: 12px; fill:#9aa7bf; }
       .bar-bg { fill:#071426; }
       .bar-fill { fill:#6be7ff; }
-      .highlight { fill:#e7faff; opacity:0; }
+      @keyframes blink-cycle { 0%   { opacity: 1; } 25%  { opacity: 0.3; } 50%  { opacity: 0.3; } 75%  { opacity: 0.3; } 100% { opacity: 0.3; } }
     </style>
   </defs>
 
   <!-- bg -->
   <rect width="960" height="312" fill="#0b1020"/>
-
-  <!-- highlights -->
-  <rect x="0" y="236" width="120" height="16" class="highlight">
-    <animate attributeName="opacity" values="1;0;0;0" dur="4s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="0" y="254" width="120" height="16" class="highlight">
-    <animate attributeName="opacity" values="0;1;0;0" dur="4s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="0" y="272" width="120" height="16" class="highlight">
-    <animate attributeName="opacity" values="0;0;1;0" dur="4s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="0" y="290" width="120" height="16" class="highlight">
-    <animate attributeName="opacity" values="0;0;0;1" dur="4s" repeatCount="indefinite"/>
-  </rect>
 
   <!-- text -->
   <text x="0" y="0" class="loading" xml:space="preserve">
