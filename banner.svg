@@ -18,7 +18,7 @@
   <!-- Background -->
   <rect width="960" height="300" fill="#0b1020"/>
 
-  <text x="0" y="126" class="loading" xml:space="preserve">
+  <text x="0" y="0" class="loading" xml:space="preserve">
     <tspan x="0" dy="1.2em">'    > RUN CLABHTA.exe</tspan>
     <tspan x="0" dy="1.2em">'    Loading… ███████████ 100%</tspan>
     <tspan x="0" dy="1.2em">'    </tspan>
