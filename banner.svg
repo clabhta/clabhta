@@ -32,19 +32,19 @@
   <text x="32" y="126" class="title">CLABHTA</text>
 
   <!-- Subtitle -->
-  <text x="32" y="144" class="subtitle">Information Science student @ UIUC</text>
+  <text x="32" y="144" class="subtitle"><< Information Science student @ UIUC >></text>
 
   <!-- Menu -->
-  <text x="32" y="162" class="menu">
+  <text x="32" y="180" class="menu">
     <tspan class="menu-label">[01]</tspan> PORTFOLIO
   </text>
-  <text x="32" y="182" class="menu">
+  <text x="32" y="200" class="menu">
     <tspan class="menu-label">[02]</tspan> CONTACT
   </text>
-  <text x="32" y="202" class="menu">
+  <text x="32" y="220" class="menu">
     <tspan class="menu-label">[03]</tspan> ABOUT
   </text>
-  <text x="32" y="222" class="menu">
+  <text x="32" y="240" class="menu">
     <tspan class="menu-label">[04]</tspan> EXIT
   </text>
 </svg>
