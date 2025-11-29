@@ -29,7 +29,7 @@
   <text x="32" y="72" class="loading">WELCOME TO</text>
 
   <!-- Logo -->
-  <text x="32" y="126" class="loading">
+  <text x="32" y="126" class="loading" xml:space="preserve">
     <tspan x="0" dy="1.2em">'     ██████╗██╗      █████╗ ██████╗ ██╗  ██╗████████╗ █████╗</tspan>
     <tspan x="0" dy="1.2em">'    ██╔════╝██║     ██╔══██╗██╔══██╗██║  ██║╚══██╔══╝██╔══██╗</tspan>
     <tspan x="0" dy="1.2em">'    ██║     ██║     ███████║██████╔╝███████║   ██║   ███████║</tspan>
