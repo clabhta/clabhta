@@ -29,22 +29,22 @@
   <text x="32" y="84" class="loading">WELCOME TO</text>
 
   <!-- Logo -->
-  <text x="32" y="156" class="title">CLABHTA</text>
+  <text x="32" y="132" class="title">CLABHTA</text>
 
   <!-- Subtitle -->
-  <text x="32" y="180" class="subtitle">Information Science student @ UIUC</text>
+  <text x="32" y="156" class="subtitle">Information Science student @ UIUC</text>
 
   <!-- Menu -->
-  <text x="32" y="204" class="menu">
+  <text x="32" y="180" class="menu">
     <tspan class="menu-label">[01]</tspan> PORTFOLIO
   </text>
-  <text x="32" y="224" class="menu">
+  <text x="32" y="200" class="menu">
     <tspan class="menu-label">[02]</tspan> CONTACT
   </text>
-  <text x="32" y="244" class="menu">
+  <text x="32" y="220" class="menu">
     <tspan class="menu-label">[03]</tspan> ABOUT
   </text>
-  <text x="32" y="264" class="menu">
+  <text x="32" y="240" class="menu">
     <tspan class="menu-label">[04]</tspan> EXIT
   </text>
 </svg>
