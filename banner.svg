@@ -29,9 +29,9 @@
   <rect x="600" y="70" width="220" height="12" class="bar-fill" rx="6"/>
   <text x="830" y="80" class="loading">100%</text>
   -->
-  <text x="32" y="108" class="loading" xml:space="preserve">'    WELCOME TO</text>
+  <text x="0" y="108" class="loading" xml:space="preserve">'    WELCOME TO</text>
 
-  <text x="32" y="126" class="loading" xml:space="preserve">
+  <text x="0" y="126" class="loading" xml:space="preserve">
     <tspan x="0" dy="1.2em">'     ██████╗██╗      █████╗ ██████╗ ██╗  ██╗████████╗ █████╗</tspan>
     <tspan x="0" dy="1.2em">'    ██╔════╝██║     ██╔══██╗██╔══██╗██║  ██║╚══██╔══╝██╔══██╗</tspan>
     <tspan x="0" dy="1.2em">'    ██║     ██║     ███████║██████╔╝███████║   ██║   ███████║</tspan>
