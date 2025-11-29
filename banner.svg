@@ -18,20 +18,12 @@
   <!-- Background -->
   <rect width="960" height="300" fill="#0b1020"/>
 
-  <!-- Loading bar -->
-  <text x="0" y="36" class="loading" xml:space="preserve">'    > RUN CLABHTA.exe</text>
-  <text x="0" y="54" class="loading" xml:space="preserve">'    Loading… ███████████ 100%</text>
-
-  <text x="0" y="72" class="loading" xml:space="preserve">'    </text>
-  <text x="0" y="90" class="loading" xml:space="preserve">'    </text>
-  <!--
-  <rect x="600" y="70" width="220" height="12" class="bar-bg" rx="6"/>
-  <rect x="600" y="70" width="220" height="12" class="bar-fill" rx="6"/>
-  <text x="830" y="80" class="loading">100%</text>
-  -->
-  <text x="0" y="108" class="loading" xml:space="preserve">'    WELCOME TO</text>
-
   <text x="0" y="126" class="loading" xml:space="preserve">
+    <tspan x="0" dy="1.2em">'    > RUN CLABHTA.exe</tspan>
+    <tspan x="0" dy="1.2em">'    Loading… ███████████ 100%</tspan>
+    <tspan x="0" dy="1.2em">'    </tspan>
+    <tspan x="0" dy="1.2em">'    </tspan>
+    <tspan x="0" dy="1.2em">'    WELCOME TO</tspan>
     <tspan x="0" dy="1.2em">'     ██████╗██╗      █████╗ ██████╗ ██╗  ██╗████████╗ █████╗</tspan>
     <tspan x="0" dy="1.2em">'    ██╔════╝██║     ██╔══██╗██╔══██╗██║  ██║╚══██╔══╝██╔══██╗</tspan>
     <tspan x="0" dy="1.2em">'    ██║     ██║     ███████║██████╔╝███████║   ██║   ███████║</tspan>
