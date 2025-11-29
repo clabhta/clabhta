@@ -19,11 +19,11 @@
   <rect width="960" height="300" fill="#0b1020"/>
 
   <!-- Loading bar -->
-  <text x="32" y="36" class="loading" xml:space="preserve">'    > RUN CLABHTA.exe</text>
-  <text x="32" y="54" class="loading" xml:space="preserve">'    Loading… ███████████ 100%</text>
+  <text x="0" y="36" class="loading" xml:space="preserve">'    > RUN CLABHTA.exe</text>
+  <text x="0" y="54" class="loading" xml:space="preserve">'    Loading… ███████████ 100%</text>
 
-  <text x="32" y="72" class="loading" xml:space="preserve">'    </text>
-  <text x="32" y="90" class="loading" xml:space="preserve">'    </text>
+  <text x="0" y="72" class="loading" xml:space="preserve">'    </text>
+  <text x="0" y="90" class="loading" xml:space="preserve">'    </text>
   <!--
   <rect x="600" y="70" width="220" height="12" class="bar-bg" rx="6"/>
   <rect x="600" y="70" width="220" height="12" class="bar-fill" rx="6"/>
