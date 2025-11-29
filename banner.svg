@@ -13,7 +13,27 @@
       .loading { font-family: monospace; font-size: 12px; fill:#9aa7bf; }
       .bar-bg { fill:#071426; }
       .bar-fill { fill:#6be7ff; }
-      @keyframes blink-cycle {0%,50% {background-color: var(--bg-start); color: var(--text-start);} 75%,100% {background-color: var(--bg-end); color: var(--text-end);}}
+      :root {
+        --bg-start: #fff;
+        --text-start: #0b1020;
+
+        --bg-end: #0b1020;
+        --text-end: #fff;
+      }
+      @keyframes blink-animation {
+
+        0%,
+        50% {
+            background-color: var(--bg-start);
+            color: var(--text-start);
+        }
+
+        75%,
+        100% {
+            background-color: var(--bg-end);
+            color: var(--text-end);
+        }
+      }
     </style>
   </defs>
 
