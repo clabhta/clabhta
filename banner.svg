@@ -8,7 +8,7 @@
       .title { font-family: monospace; font-weight: bold; font-size: 64px; fill: url(#grad); }
       .subtitle { font-family: monospace; font-size: 16px; fill:#9fbfd1; }
       .menu { font-family: monospace; font-size: 14px; fill:#e7faff; }
-      .menu-label { fill:#6be7ff; font-weight:bold; }
+      .menu-label { fill:#967bb6; font-weight:bold; }
       .loading { font-family: monospace; font-size: 12px; fill:#9aa7bf; }
       .bar-bg { fill:#071426; }
       .bar-fill { fill:#6be7ff; }
@@ -31,7 +31,7 @@
     <tspan x="0" dy="1.2em">'    ╚██████╗███████╗██║  ██║██████╔╝██║  ██║   ██║   ██║  ██║</tspan>
     <tspan x="0" dy="1.2em">'     ╚═════╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝</tspan>
     <tspan x="0" dy="1.2em">'                                                             </tspan>
-    <tspan x="0" dy="1.2em">'    Information Science student @ UIUC</tspan>
+    <tspan x="0" dy="1.2em">'    <!--Information Science student @ UIUC--></tspan>
     <tspan x="0" dy="1.2em">'    Select Module:</tspan>
     <tspan class="menu-label" x="0" dy="1.2em">'    [01]</tspan> PORTFOLIO
     <tspan class="menu-label" x="0" dy="1.2em">'    [02]</tspan> CONTACT
