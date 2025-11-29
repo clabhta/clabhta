@@ -29,7 +29,13 @@
   <text x="32" y="72" class="loading">WELCOME TO</text>
 
   <!-- Logo -->
-  <text x="32" y="126" class="title">CLABHTA</text>
+  <text x="32" y="126" class="loading">'     ██████╗██╗      █████╗ ██████╗ ██╗  ██╗████████╗ █████╗ </text>
+  <text x="32" y="126" class="loading">'    ██╔════╝██║     ██╔══██╗██╔══██╗██║  ██║╚══██╔══╝██╔══██╗</text>
+  <text x="32" y="126" class="loading">'    ██║     ██║     ███████║██████╔╝███████║   ██║   ███████║</text>
+  <text x="32" y="126" class="loading">'    ██║     ██║     ██╔══██║██╔══██╗██╔══██║   ██║   ██╔══██║</text>
+  <text x="32" y="126" class="loading">'    ╚██████╗███████╗██║  ██║██████╔╝██║  ██║   ██║   ██║  ██║</text>
+  <text x="32" y="126" class="loading">'     ╚═════╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝</text>
+  <text x="32" y="126" class="loading">'                                                             </text>
 
   <!-- Subtitle -->
   <text x="32" y="144" class="subtitle"><< Information Science student @ UIUC >></text>
