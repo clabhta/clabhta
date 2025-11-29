@@ -9,7 +9,7 @@
       .subtitle { font-family: monospace; font-size: 16px; fill:#9fbfd1; }
       .menu { font-family: monospace; font-size: 14px; fill:#e7faff; }
       .menu-label { fill:#967bb6; font-weight:bold; }
-      .footnote {fill:#00FFFF}
+      .footnote {fill:#0096FF}
       .loading { font-family: monospace; font-size: 12px; fill:#9aa7bf; }
       .bar-bg { fill:#071426; }
       .bar-fill { fill:#6be7ff; }
