@@ -18,6 +18,13 @@
   <!-- Background -->
   <rect width="960" height="240" fill="#0b1020"/>
 
+  <!-- Loading bar -->
+  <text x="600" y="36" class="loading">> RUN CLABHTA.exe</text>
+  <text x="600" y="60" class="loading">Loading…</text>
+  <rect x="600" y="70" width="220" height="12" class="bar-bg" rx="6"/>
+  <rect x="600" y="70" width="220" height="12" class="bar-fill" rx="6"/>
+  <text x="830" y="80" class="loading">100%</text>
+
   <!-- WELCOME TO -->
   <text x="32" y="36" class="subtitle">WELCOME TO</text>
 
@@ -40,11 +47,4 @@
   <text x="32" y="240" class="menu">
     <tspan class="menu-label">[04]</tspan> EXIT
   </text>
-
-  <!-- Loading bar -->
-  <text x="600" y="36" class="loading">> RUN CLABHTA.exe</text>
-  <text x="600" y="60" class="loading">Loading…</text>
-  <rect x="600" y="70" width="220" height="12" class="bar-bg" rx="6"/>
-  <rect x="600" y="70" width="220" height="12" class="bar-fill" rx="6"/>
-  <text x="830" y="80" class="loading">100%</text>
 </svg>
