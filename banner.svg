@@ -14,7 +14,7 @@
       .bar-bg { fill:#071426; }
       .bar-fill { fill:#6be7ff; }
       @keyframes blink-cycle {
-        0%, 24.999% { fill: #f8f9fb;}
+        0%, 24.999% { fill: #e4ddec;}
         25%, 100%   { fill: #967bb6;}
       }
     </style>
