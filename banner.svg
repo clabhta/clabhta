@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300">
   <defs>
     <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#6be7ff"/>
-      <stop offset="100%" stop-color="#00cfff"/>
+      <stop offset="0%" stop-color="#ad90d2ff"/>
+      <stop offset="100%" stop-color="#967bb6"/>
     </linearGradient>
     <style>
       .title { font-family: monospace; font-weight: bold; font-size: 64px; fill: url(#grad); }
