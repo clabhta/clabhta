@@ -13,6 +13,7 @@
       .loading { font-family: monospace; font-size: 12px; fill:#9aa7bf; }
       .bar-bg { fill:#071426; }
       .bar-fill { fill:#6be7ff; }
+      .highlight { fill:#e7faff; opacity:0; }
     </style>
   </defs>
 
