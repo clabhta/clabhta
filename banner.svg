@@ -21,12 +21,15 @@
   <!-- Loading bar -->
   <text x="32" y="36" class="loading">'    > RUN CLABHTA.exe</text>
   <text x="32" y="54" class="loading">'    Loading… ███████████ 100%</text>
+
+  <text x="32" y="72" class="loading">'    </text>
+  <text x="32" y="90" class="loading">'    </text>
   <!--
   <rect x="600" y="70" width="220" height="12" class="bar-bg" rx="6"/>
   <rect x="600" y="70" width="220" height="12" class="bar-fill" rx="6"/>
   <text x="830" y="80" class="loading">100%</text>
   -->
-  <text x="32" y="90" class="loading">'    WELCOME TO</text>
+  <text x="32" y="108" class="loading">'    WELCOME TO</text>
 
   <text x="32" y="126" class="loading" xml:space="preserve">
     <tspan x="0" dy="1.2em">'     ██████╗██╗      █████╗ ██████╗ ██╗  ██╗████████╗ █████╗</tspan>
