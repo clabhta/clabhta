@@ -1,50 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="480" viewBox="0 0 960 480">
   <defs>
-    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#6be7ff"/>
-      <stop offset="100%" stop-color="#00cfff"/>
-    </linearGradient>
     <style>
-      .title { font-family: monospace; font-weight: bold; font-size: 64px; fill: url(#grad); }
-      .subtitle { font-family: monospace; font-size: 16px; fill:#9fbfd1; }
-      .menu { font-family: monospace; font-size: 14px; fill:#e7faff; }
-      .menu-label { fill:#6be7ff; font-weight:bold; }
-      .loading { font-family: monospace; font-size: 12px; fill:#9aa7bf; }
-      .bar-bg { fill:#071426; }
-      .bar-fill { fill:#6be7ff; }
+      .mono { font-family: monospace; white-space: pre; font-size: 14px; fill:#e6f7ff; }
+      .muted { fill:#9aa7bf; }
+      .accent { fill:#6be7ff; }
     </style>
   </defs>
 
   <!-- Background -->
-  <rect width="960" height="240" fill="#0b1020"/>
+  <rect width="960" height="480" fill="#0b1020"/>
 
-  <!-- Loading bar -->
-  <text x="600" y="36" class="loading">> RUN CLABHTA.exe</text>
-  <text x="600" y="60" class="loading">Loading…</text>
-  <rect x="600" y="70" width="220" height="12" class="bar-bg" rx="6"/>
-  <rect x="600" y="70" width="220" height="12" class="bar-fill" rx="6"/>
-  <text x="830" y="80" class="loading">100%</text>
+  <!-- ASCII logo -->
+  <text x="32" y="32" class="mono">
+█&nbsp;█&nbsp;█&nbsp;█&nbsp;█&nbsp;█╗██╗&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;█&nbsp;&nbsp;&nbsp;&nbsp;█&nbsp;█&nbsp;█&nbsp;█&nbsp;█&nbsp;█╗ ██╗&nbsp;&nbsp;██╗████████╗ █████╗
+  </text>
+  <text x="32" y="48" class="mono">
+██╔════╝██║&nbsp;&nbsp;&nbsp;&nbsp;██╔══██╗██╔══██╗██║&nbsp;&nbsp;██║╚══██╔══╝██╔══██╗
+  </text>
+  <text x="32" y="64" class="mono">
+██║&nbsp;&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;&nbsp;███████║██████╔╝███████║&nbsp;&nbsp;██║&nbsp;&nbsp;███████║
+  </text>
+  <text x="32" y="80" class="mono">
+██║&nbsp;&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;&nbsp;██╔══██║██╔══██╗██╔══██║&nbsp;&nbsp;██║&nbsp;&nbsp;██╔══██║
+  </text>
+  <text x="32" y="96" class="mono">
+╚██████╗███████╗██║&nbsp;&nbsp;██║██████╔╝██║&nbsp;&nbsp;██║&nbsp;&nbsp;██║&nbsp;&nbsp;██║
+  </text>
 
-  <!-- WELCOME TO -->
-  <text x="32" y="36" class="subtitle">WELCOME TO</text>
-
-  <!-- Logo -->
-  <text x="32" y="112" class="title">CLABHTA</text>
-
-  <!-- Subtitle -->
-  <text x="32" y="140" class="subtitle">Information Science student @ UIUC</text>
+  <!-- Info -->
+  <text x="32" y="120" class="muted">
+&lt;&lt; Information Science student @ UIUC &gt;&gt;
+  </text>
 
   <!-- Menu -->
-  <text x="32" y="180" class="menu">
-    <tspan class="menu-label">[01]</tspan> PORTFOLIO
+  <text x="32" y="160" class="mono">
+Select Module:
   </text>
-  <text x="32" y="200" class="menu">
-    <tspan class="menu-label">[02]</tspan> CONTACT
-  </text>
-  <text x="32" y="220" class="menu">
-    <tspan class="menu-label">[03]</tspan> ABOUT
-  </text>
-  <text x="32" y="240" class="menu">
-    <tspan class="menu-label">[04]</tspan> EXIT
-  </text>
-</svg>
+  <text x="32" y="180" cla
