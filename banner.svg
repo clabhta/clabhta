@@ -8,7 +8,7 @@
       .title { font-family: monospace; font-weight: bold; font-size: 64px; fill: url(#grad); }
       .subtitle { font-family: monospace; font-size: 16px; fill:#9fbfd1; }
       .menu { font-family: monospace; font-size: 14px; fill:#e7faff; }
-      .module-label { fill:#967bb6; font-weight:bold; opacity:0.3; }
+      .module-label { fill:#967bb6; font-weight:bold; }
       .footnote {fill:#0096FF}
       .loading { font-family: monospace; font-size: 12px; fill:#9aa7bf; }
       .bar-bg { fill:#071426; }
@@ -24,7 +24,16 @@
     <tspan x="0" dy="1.4em">'    > RUN clabhta.exe</tspan>
     <tspan x="0" dy="1.4em">'    Loading… █████████████████████████ 100%</tspan>
     <tspan x="0" dy="1.4em">'    </tspan>
-    <tspan x="0" dy="1.4em">'    welcome to clabhta<tspan baseline-shift="super" font-size="70%">2</tspan>, m. (gs. ~, pl. ~í). Cloud.</tspan><tspan class="footnote" baseline-shift="super" text-decoration="underline" font-size="70%">[1]</tspan>
+    <tspan x="0" dy="1.4em">'    </tspan>
+    <tspan x="0" dy="1.4em">'    welcome to           clabhta</tspan><tspan baseline-shift="super" font-size="70%">2</tspan><tspan>, m. (gs. ~, pl. ~í). Cloud.</tspan><tspan class="footnote" baseline-shift="super" text-decoration="underline" font-size="70%">[1]</tspan>
+    <tspan x="0" dy="1.4em">'     ██████╗██╗      █████╗ ██████╗ ██╗  ██╗████████╗ █████╗ </tspan>
+    <tspan x="0" dy="1.4em">'    ██╔════╝██║     ██╔══██╗██╔══██╗██║  ██║╚══██╔══╝██╔══██╗</tspan>
+    <tspan x="0" dy="1.4em">'    ██║     ██║     ███████║██████╔╝███████║   ██║   ███████║</tspan>
+    <tspan x="0" dy="1.4em">'    ██║     ██║     ██╔══██║██╔══██╗██╔══██║   ██║   ██╔══██║</tspan>
+    <tspan x="0" dy="1.4em">'    ╚██████╗███████╗██║  ██║██████╔╝██║  ██║   ██║   ██║  ██║</tspan>
+    <tspan x="0" dy="1.4em">'     ╚═════╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝</tspan>
+    <tspan x="0" dy="1.4em">'                                                             </tspan>
+    <tspan x="0" dy="1.4em">'    <!--Information Science student @ UIUC--></tspan>
     <tspan x="0" dy="1.4em">'    Select Module:</tspan>
     <tspan x="0" dy="1.4em"><tspan class="module-label">[01]</tspan> PORTFOLIO
       <animate attributeName="opacity" values="1;0.3;0.3;0.3" dur="4s" repeatCount="indefinite"/>
@@ -39,4 +48,21 @@
       <animate attributeName="opacity" values="0.3;0.3;0.3;1" dur="4s" repeatCount="indefinite"/>
     </tspan>
   </text>
+
+  <!--
+  <text x="32" y="144" class="subtitle"><< Information Science student @ UIUC >></text>
+
+  <text x="32" y="180" class="menu">
+    <tspan class="menu-label">[01]</tspan> PORTFOLIO
+  </text>
+  <text x="32" y="200" class="menu">
+    <tspan class="menu-label">[02]</tspan> CONTACT
+  </text>
+  <text x="32" y="220" class="menu">
+    <tspan class="menu-label">[03]</tspan> ABOUT
+  </text>
+  <text x="32" y="240" class="menu">
+    <tspan class="menu-label">[04]</tspan> EXIT
+  </text>
+  -->
 </svg>
