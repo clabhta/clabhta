@@ -14,8 +14,8 @@
       .bar-bg { fill:#071426; }
       .bar-fill { fill:#6be7ff; }
       @keyframes blink-cycle {
-        0%, 50% { opacity: 1; }  /* fully visible */
-        50.01%, 100% { opacity: 0; } /* fully hidden */
+        0%, 24.999% { fill: #0b1020; background-color: #e7faff; }
+        25%, 100%   { fill: #e7faff; background-color: transparent; }
       }
     </style>
   </defs>
