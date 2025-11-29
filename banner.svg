@@ -8,14 +8,14 @@
       .title { font-family: monospace; font-weight: bold; font-size: 64px; fill: url(#grad); }
       .subtitle { font-family: monospace; font-size: 16px; fill:#9fbfd1; }
       .menu { font-family: monospace; font-size: 14px; fill:#e7faff; }
-      .module-label { fill:#9aa7bf; font-weight:bold; animation: blink-cycle 4s infinite;}
+      .module-label { fill:#967bb6; font-weight:bold; animation: blink-cycle 4s infinite;}
       .footnote {fill:#0096FF}
       .loading { font-family: monospace; font-size: 12px; fill:#9aa7bf; }
       .bar-bg { fill:#071426; }
       .bar-fill { fill:#6be7ff; }
       @keyframes blink-cycle {
-        0%, 24.999% { fill: #967bb6;}
-        25%, 100%   { fill: #9aa7bf;}
+        0%, 24.999% { fill: #f8f9fb;}
+        25%, 100%   { fill: #967bb6;}
       }
     </style>
   </defs>
