@@ -13,7 +13,7 @@
       .loading { font-family: monospace; font-size: 12px; fill:#9aa7bf; }
       .bar-bg { fill:#071426; }
       .bar-fill { fill:#6be7ff; }
-      @keyframes blink-cycle { 0%   { opacity: 1; } 25%  { opacity: 0.3; } 50%  { opacity: 0.3; } 75%  { opacity: 0.3; } 100% { opacity: 0.3; } }
+      @keyframes blink-cycle {0%,50% {background-color: var(--bg-start); color: var(--text-start);} 75%,100% {background-color: var(--bg-end); color: var(--text-end);}}
     </style>
   </defs>
 
@@ -36,10 +36,10 @@
     <tspan x="0" dy="1.4em">'                                                             </tspan>
     <tspan x="0" dy="1.4em">'    <!--Information Science student @ UIUC--></tspan>
     <tspan x="0" dy="1.4em">'    Select Module:</tspan>
-    <tspan x="0" dy="1.4em">'    </tspan><tspan class="module-label">[01]</tspan> PORTFOLIO
-    <tspan x="0" dy="1.4em">'    </tspan><tspan class="module-label">[02]</tspan> CONTACT
-    <tspan x="0" dy="1.4em">'    </tspan><tspan class="module-label">[03]</tspan> ABOUT
-    <tspan x="0" dy="1.4em">'    </tspan><tspan class="module-label">[04]</tspan> EXIT
+    <tspan x="0" dy="1.4em">'    </tspan><tspan class="module-label" style="animation-delay:0s">[01]</tspan> PORTFOLIO
+    <tspan x="0" dy="1.4em">'    </tspan><tspan class="module-label" style="animation-delay:1s">[02]</tspan> CONTACT
+    <tspan x="0" dy="1.4em">'    </tspan><tspan class="module-label" style="animation-delay:2s">[03]</tspan> ABOUT
+    <tspan x="0" dy="1.4em">'    </tspan><tspan class="module-label" style="animation-delay:3s">[04]</tspan> EXIT
     <!--
     <tspan x="0" dy="1.4em"><tspan class="module-label">[01]</tspan> PORTFOLIO
       <animate attributeName="opacity" values="1;0.3;0.3;0.3" dur="4s" repeatCount="indefinite"/>
